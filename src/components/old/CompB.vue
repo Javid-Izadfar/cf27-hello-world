@@ -1,5 +1,5 @@
 <script setup>
-import CompC from "@/components/CompC.vue";
+import CompC from "@/components/old/CompC.vue";
 import { ref, onBeforeMount, onMounted, onBeforeUpdate, onUpdated } from "vue";
 
 onBeforeMount(() => {
